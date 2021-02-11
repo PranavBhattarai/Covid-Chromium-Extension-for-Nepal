@@ -8,6 +8,7 @@ After installation, when you click on the extension, it will give a live update 
 	iii) Number of Death caused by COVID
 
 
+
 <b> Steps to install extension in Chromuim based browser, like Chrome, Brave, Edge, etc: </b>
 
 i) Go to the menu.
@@ -17,6 +18,7 @@ iv) Then you will see three option, out of which select "Load unpacked" option.
 v) Go to the folder where you have download and select it. And press "Open".
 
 This will install the extension in the browser.
+
 
 <b> Tips: </b>
 
