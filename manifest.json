@@ -1,0 +1,9 @@
+{
+    "name":"COVID-19 cases in Nepal",
+    "version":"1.0.0",
+    "description": "Get latest infromation of Nepal COVID Update. By Pranav.",
+    "manifest_version":2,
+    "browser_action":{
+        "default_popup":"index.html"
+    }
+}
