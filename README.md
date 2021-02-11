@@ -1,4 +1,4 @@
-<i> Disclaimer: This is practise done by me to know, how to make Chromium/Chrome extension. This is NOT my "original" idea.</i>
+<i> Disclaimer: This is practise done by me to know, how to make Chromium/Chrome extension. This is NOT my "original" idea. I learned it from YouTube.</i>
 
 <b> What this extension do? </b>
 
